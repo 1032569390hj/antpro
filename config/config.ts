@@ -244,7 +244,7 @@ export default defineConfig({
                   redirect: '/exception/403',
                 },
                 {
-                  name: '403',
+                  name: '5000',
                   icon: 'smile',
                   path: '/exception/403',
                   component: './exception/403',
